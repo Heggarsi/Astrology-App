@@ -1,0 +1,31 @@
+.subtitle {
+    text-align: center;
+    color: #6c757d;
+    margin-bottom: 30px;
+}
+
+.stTextInput input {
+    border-radius: 8px;
+}
+
+.stButton button {
+    width: 100%;
+    border-radius: 8px;
+    padding: 10px;
+    background: #4f46e5;
+    color: white;
+    font-weight: 600;
+}
+
+.stButton button:hover {
+    background: #4338ca;
+}
+
+.links {
+    margin-top: 20px;
+}
+.right-btn {
+    display: flex;
+    justify-content: flex-end;
+    margin: 6px 0 6px auto;
+}

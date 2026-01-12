@@ -1,0 +1,10 @@
+.stButton button {
+    width: 100%;
+    background: #059669;
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+.stButton button:hover {
+    background: #047857;
+}
